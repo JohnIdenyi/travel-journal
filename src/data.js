@@ -11,6 +11,16 @@ export const data = [
     },
     {
         id: 2,
+        title: "Burj Al Arab",
+        location: "Dubai",
+        googleMapsUrl: "https://www.google.com/maps/place/Burj+Al+Arab/@25.1415573,55.183884,18z/data=!3m2!4b1!5s0x3e5f6a577d8c58d3:0x729f4c27fc92e59c!4m8!3m7!1s0x3e5f6a576414cf2d:0xb3da71b879f0e038!5m2!4m1!1i2!8m2!3d25.1411914!4d55.1852468",
+        startDate: "12 Jun, 2023",
+        endDate: "13 Jul, 2023",
+        description: "Magic Land, also known as wonderland is a good park to be in alone, with a loved one, or with family. It has all you need to plan the perfect date or outing.",
+        imageUrl: "https://images.unsplash.com/photo-1562847246-a375b01505ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGR1YmFpJTIwY2l0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        id: 3,
         title: "Mount Fuji",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
@@ -20,7 +30,7 @@ export const data = [
         imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
     },
     {
-        id: 3,
+        id: 4,
         title: "Sydney Opera House",
         location: "Australia",
         googleMapsUrl: "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567799,151.213108,17z/data=!3m2!4b1!5s0x6b12ae67d234a27f:0xd6d4e9380ca1e32f!4m5!3m4!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967",
@@ -30,7 +40,7 @@ export const data = [
         imageUrl: "https://source.unsplash.com/JmuyB_LibRo"
     },
     {
-        id: 4,
+        id: 5,
         title: "Geirangerfjord",
         location: "Norway",
         googleMapsUrl: "https://www.google.com.ng/maps/place/Geirangerfjord/@62.1048487,7.0752131,12z/data=!3m1!4b1!4m5!3m4!1s0x46169d427b268c51:0xb8c99540dcc397fe!8m2!3d62.101506!4d7.0940817?hl=enhttps://goo.gl/maps/1DGM5WrWnATgkSNB8",
