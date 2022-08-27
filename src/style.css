@@ -49,7 +49,7 @@ header {
 }
 
 .card {
-    margin-bottom: 36px;
+    margin-bottom: 39px;
 }
 
 .text-container {
@@ -60,6 +60,7 @@ header {
     margin-left: 4px;
     letter-spacing: 0.17em;
     text-transform: uppercase;
+    font-size: 14px;
 }
 
 .card-icon {
@@ -81,12 +82,12 @@ header {
 }
 
 .card-title {
-    margin-top: 15px;
+    margin-top: 7px;
     font-size: 2rem;
 }
 
 .card-date {
-    margin-top: 20px;
+    margin-top: 14px;
     font-weight: 700;
     font-size: 0.75rem;
 }
@@ -103,7 +104,11 @@ header {
         flex-direction: column;
     }
 
-    .location, .card-title {
+    .text-container {
+        padding-left: 0;
+    }
+
+    .location, .card-title, .card-date {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -111,5 +116,13 @@ header {
 
     .card-image {
         width: 100%;
+    }
+
+    .googlemaps-link {
+        margin-top: 10px;
+    }
+
+    .card-location {
+        margin-top: 5px;
     }
 }
