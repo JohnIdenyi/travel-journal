@@ -3,7 +3,7 @@ export const data = [
         id: 1,
         title: "Magic Land",
         location: "Abuja",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        googleMapsUrl: "https://www.google.com/maps/place/Magic+Land/@9.0428646,7.4520551,3a,85.6y,90t/data=!3m8!1e2!3m6!1sAF1QipOIHo78xnI4uNc_WCLlaN4bGUKYoRBuMtL_D_8k!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOIHo78xnI4uNc_WCLlaN4bGUKYoRBuMtL_D_8k%3Dw114-h86-k-no!7i640!8i480!4m5!3m4!1s0x104e0b45db480bf9:0x552450789a5905e5!8m2!3d9.0428646!4d7.4520551",
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
         description: "Magic Land, also known as wonderland is a good park to be in alone, with a loved one, or with family. It has all you need to plan the perfect date or outing.",
