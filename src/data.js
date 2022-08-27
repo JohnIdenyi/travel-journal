@@ -16,7 +16,7 @@ export const data = [
         googleMapsUrl: "https://www.google.com/maps/place/Burj+Al+Arab/@25.1415573,55.183884,18z/data=!3m2!4b1!5s0x3e5f6a577d8c58d3:0x729f4c27fc92e59c!4m8!3m7!1s0x3e5f6a576414cf2d:0xb3da71b879f0e038!5m2!4m1!1i2!8m2!3d25.1411914!4d55.1852468",
         startDate: "12 Jun, 2023",
         endDate: "13 Jul, 2023",
-        description: "Magic Land, also known as wonderland is a good park to be in alone, with a loved one, or with family. It has all you need to plan the perfect date or outing.",
+        description: "The Burj Al Arab is a luxury hotel located in the city of Dubai, United Arab Emirates. Managed by Jumeirah hotel group, it is one of the tallest hotels in the world.",
         imageUrl: "https://images.unsplash.com/photo-1562847246-a375b01505ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGR1YmFpJTIwY2l0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
